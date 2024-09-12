@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "240759395700",
+    "project_id": "crm-evhomes",
+    "storage_bucket": "crm-evhomes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240759395700:android:48e3bfb1e6639679c88821",
+        "android_client_info": {
+          "package_name": "com.example.ev_homes_crm_v7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240759395700-0j3ppfqmr2d13vv12inkp4i0ahd3tj1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVL0Lmm12NHAMHt3-WDh1esBaua_2bAlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240759395700-0j3ppfqmr2d13vv12inkp4i0ahd3tj1p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "240759395700-08elc83t9qjnshqpuflmicao8qrebqb8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.evHomesCrmV7.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240759395700:android:8442e558d5392cf8c88821",
+        "android_client_info": {
+          "package_name": "com.example.evhomecrm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240759395700-0j3ppfqmr2d13vv12inkp4i0ahd3tj1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVL0Lmm12NHAMHt3-WDh1esBaua_2bAlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240759395700-0j3ppfqmr2d13vv12inkp4i0ahd3tj1p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "240759395700-08elc83t9qjnshqpuflmicao8qrebqb8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.evHomesCrmV7.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
